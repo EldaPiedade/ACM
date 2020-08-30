@@ -7,14 +7,6 @@ Workshop 1
 * Link https://github.com/EldaPiedade/Machine-Learning-ACM-Tutorials/blob/master/Workshop%201/Work_Books/ACM_DataScience_Workshop1_EldaPiedade_Feb1920.ipynb
 * Authers: Elda & Ethan
 
-Workshop 2
-* Posted to Slack channel, open to ACM Members
-* Notebook is meant for an audience that attended the first workshop
-* Link https://github.com/EldaPiedade/Machine-Learning-ACM-Tutorials/blob/master/Workshop%202/ACM_DataScience_Workshop2.ipynb
-* Auther: Elda Piedade
-
-
-Workshop 1 Recap
 During the first workshop we achieved the following:
 
 * Explored the data and decided to use the columns that contain numerical data only.
@@ -24,7 +16,12 @@ During the first workshop we achieved the following:
 * Learned how to split the data into train and validation sets to test the performance of the model.
 * Finally we created a Kaggle account and submitted our results here -->https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
-Workshop 2 Summary¶
+Workshop 2
+* Posted to Slack channel, open to ACM Members
+* Notebook is meant for an audience that attended the first workshop
+* Link https://github.com/EldaPiedade/Machine-Learning-ACM-Tutorials/blob/master/Workshop%202/ACM_DataScience_Workshop2.ipynb
+* Auther: Elda Piedade
+
 For this workshop we will extend the same concepts learned and go a little further:
 
 * We will now use numerical and categorical data to predict homes prices in Iowa. Because models only understand numerical data, we will convert the categorical into numerical data in different ways.
