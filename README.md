@@ -1,7 +1,7 @@
 # Machine-Learning-ACM-Tutorials
 ACM Data Science WorkShops
 
-Workshop 1 
+**Workshop 1** 
 * Delivered in Person to 30 Students
 * Notebook is not detailed
 * Link https://github.com/EldaPiedade/Machine-Learning-ACM-Tutorials/blob/master/Workshop%201/Work_Books/ACM_DataScience_Workshop1_EldaPiedade_Feb1920.ipynb
@@ -16,7 +16,7 @@ During the first workshop we achieved the following:
 * Learned how to split the data into train and validation sets to test the performance of the model.
 * Finally we created a Kaggle account and submitted our results here -->https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
-Workshop 2
+**Workshop 2**
 * Posted to Slack channel, open to ACM Members
 * Notebook is meant for an audience that attended the first workshop
 * Link https://github.com/EldaPiedade/Machine-Learning-ACM-Tutorials/blob/master/Workshop%202/ACM_DataScience_Workshop2.ipynb
