@@ -5,7 +5,7 @@ ACM Data Science WorkShops
 * Delivered in Person to 30 Students
 * Notebook is not detailed
 * Link https://github.com/EldaPiedade/Machine-Learning-ACM-Tutorials/blob/master/Workshop%201/Work_Books/ACM_DataScience_Workshop1_EldaPiedade_Feb1920.ipynb
-* Authers: Elda & Ethan
+* Authors: Elda & Ethan
 
 During the first workshop we achieved the following:
 
