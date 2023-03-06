@@ -20,7 +20,7 @@ During the first workshop we achieved the following:
 * Posted to Slack channel, open to ACM Members
 * Notebook is meant for an audience that attended the first workshop
 * Link https://github.com/EldaPiedade/Machine-Learning-ACM-Tutorials/blob/master/Workshop%202/ACM_DataScience_Workshop2.ipynb
-* Auther: Elda Piedade
+* Author: Elda Piedade
 
 For this workshop we will extend the same concepts learned and go a little further:
 
